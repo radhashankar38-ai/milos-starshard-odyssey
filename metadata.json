@@ -1,0 +1,6 @@
+{
+  "name": "Milo's Starshard Odyssey",
+  "description": "An original 3D platform-adventure featuring Milo, with 8 unique worlds, dynamic 3D camera angles, boss battles, original power-ups, and rich celestial collectibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
